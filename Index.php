@@ -7,7 +7,7 @@
         <h1>Calculadora</h1>
         <br>
     </header>
-    <form method= "POST" action="" autocomplete="off" class="d-flex flex-column justify-content-around">
+    <form method= "POST" action="" autocomplete="off" enctype="multipart/form-data" class="d-flex flex-column justify-content-around">
         <label>Ingrese su primer número:</label>
         <input type="number" name="num1" id="num1">
         <br>
