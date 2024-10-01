@@ -1,6 +1,7 @@
 <?php
     include_once("php/cabeza.php");
 ?>
+
 <div class="border border-primary  p-4 m-4">
     <header class="">
         <h1>Calculadora</h1>
